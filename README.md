@@ -70,19 +70,18 @@ Lo que deberías ver:
 
 No verás mucho, tal vez un breve mensaje como:
 
-```text
-Initializing SDKMAN...
-```
+>Initializing SDKMAN...
+
 6. Para confirmar que SDKMAN se instaló correctamente, escribe:
-```bash
-sdk version
-```
+
+>sdk version
+
 Lo que deberías ver:
 
 Deberías ver un mensaje indicando la versión de SDKMAN, algo como:
-```text
-SDKMAN 5.18.2
-```
+
+>SDKMAN 5.18.2
+
 ## Instalación de Java 8.0.452-zulu
 
 Ahora vamos a instalar la versión específica de Java que necesita Certifica.jar:
@@ -96,10 +95,10 @@ sdk install java 8.0.452-zulu
 Lo que deberías ver:
 
 Verás cómo comienza la descarga:
-```text
-Downloading: java 8.0.452-zulu
-In progress...
-```
+
+>Downloading: java 8.0.452-zulu
+>In progress...
+
 La descarga puede tardar varios minutos dependiendo de tu conexión a Internet.
 
 3. Si te pregunta si quieres establecer esta versión como predeterminada, escribe "Y" (sin comillas) y presiona Enter.
@@ -107,15 +106,15 @@ La descarga puede tardar varios minutos dependiendo de tu conexión a Internet.
 Lo que deberías ver:
 
 Un mensaje similar a:
-```text
-Do you want java 8.0.452-zulu to be set as default? (Y/n): Y
 
-Setting java 8.0.452-zulu as default.
-```
+>Do you want java 8.0.452-zulu to be set as default? (Y/n): Y
+
+>Setting java 8.0.452-zulu as default.
+
 Al finalizar la instalación, verás un mensaje como:
-```text
-Done installing!
-```
+
+>Done installing!
+
 ## Verificación de la instalación
 
 Vamos a comprobar que todo se instaló correctamente:
@@ -129,11 +128,11 @@ java -version
 Lo que deberías ver:
 
 Deberías ver un texto similar a este (los números exactos pueden variar):
-```text
-openjdk version "1.8.0_452"
-OpenJDK Runtime Environment (Zulu 8.84.0.13-CA-macosx) (build 1.8.0_452-b13)
-OpenJDK 64-Bit Server VM (Zulu 8.84.0.13-CA-macosx) (build 25.452-b13, mixed mode)
-```
+
+>openjdk version "1.8.0_452"
+>OpenJDK Runtime Environment (Zulu 8.84.0.13-CA-macosx) (build 1.8.0_452-b13)
+>OpenJDK 64-Bit Server VM (Zulu 8.84.0.13-CA-macosx) (build 25.452-b13, mixed mode)
+
 Lo importante es que muestre "1.8.0_452" que indica que es Java 8.
 
 ## Descarga del archivo Certifica.jar
@@ -160,9 +159,8 @@ cd /Users/TuNombreDeUsuario/Descargas
 Reemplaza "TuNombreDeUsuario" con tu nombre de usuario en Mac. Si no sabes cuál es, puedes escribir pwd en la Terminal y verás la ruta de tu directorio actual, que debería incluir tu nombre de usuario.
 
 Ejemplo:
-```text
-cd /Users/maro/Descargas
-```
+
+>cd /Users/maro/Descargas
 
 3. Presiona Enter.
 
@@ -203,9 +201,9 @@ Si después de seguir todos los pasos anteriores el programa no se abre correcta
 ls
 ```
 Lo que deberías ver:
-```text
-El nombre del archivo "Certifica.jar" debe aparecer en la lista.
-```
+
+>El nombre del archivo "Certifica.jar" debe aparecer en la lista.
+
 2. Verifica que el nombre del archivo es exactamente "Certifica.jar" (respetando mayúsculas y minúsculas). Si es diferente, usa el nombre correcto en el comando.
 
 3. Si ves un mensaje de error, intenta ejecutar el programa con este comando alternativo:
