@@ -13,7 +13,7 @@ Tutorial para la instalación de Java 8, configuración de Java y ejecución de 
 
 ## Introducción: ¿Qué vamos a hacer?
 
-En este tutorial, te guiaremos paso a paso para ejecutar el programa `Certifica.jar` en tu Mac. Este programa requiere una versión específica de Java para funcionar correctamente. No necesitas ser un experto en tecnología, simplemente sigue las instrucciones para poder ejecutar el programa.
+En este tutorial, te guiaré paso a paso para ejecutar el programa `Certifica.jar` en tu Mac. Este programa requiere una versión específica de Java para funcionar correctamente. No necesitas ser un experto en tecnología, simplemente sigue las instrucciones para poder ejecutar el programa.
 
 ## ¿Qué es Java y por qué es seguro instalarlo?
 
