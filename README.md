@@ -51,15 +51,15 @@ Primero, necesitamos instalar una herramienta que nos ayudará a configurar corr
 Lo que deberías ver:
 
 Verás varias líneas de texto apareciendo en la Terminal. Al final, deberías ver un mensaje similar a:
-```text
-All done!
 
-Please open a new terminal, or run the following in the existing one:
+>All done!
 
-    source "$HOME/.sdkman/bin/sdkman-init.sh"
+>Please open a new terminal, or run the following in the existing one:
 
-Then start using SDKMAN!
-```
+>    source "$HOME/.sdkman/bin/sdkman-init.sh"
+
+>Then start using SDKMAN!
+
 4. Cuando termine, copia y pega este otro comando:
 ```bash
 source "$HOME/.sdkman/bin/sdkman-init.sh"
