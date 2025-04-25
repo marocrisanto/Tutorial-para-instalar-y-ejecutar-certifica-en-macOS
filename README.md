@@ -73,9 +73,9 @@ No verás mucho, tal vez un breve mensaje como:
 >Initializing SDKMAN...
 
 6. Para confirmar que SDKMAN se instaló correctamente, escribe:
-
->sdk version
-
+```bash
+sdk version
+```
 Lo que deberías ver:
 
 Deberías ver un mensaje indicando la versión de SDKMAN, algo como:
