@@ -186,6 +186,8 @@ java -jar Certifica.jar
 
 Lo que deberías ver:
 
+<img width="1440" alt="certifica" src="https://github.com/user-attachments/assets/e3e54da8-7a36-463c-9f8c-92840158c300" />
+
 Si todo funciona correctamente, debería abrirse la interfaz gráfica del programa Certifica.jar. Es posible que no veas nada nuevo en la Terminal, ya que el programa se ejecutará en una ventana separada.
 
 Si el programa no tiene interfaz gráfica, verás su salida directamente en la Terminal.
@@ -277,5 +279,3 @@ Lo que deberías ver:
 Una lista de versiones de Java instaladas, con la versión activa marcada con ">" al inicio de la línea.
 
 Con estas instrucciones deberías poder ejecutar correctamente el programa Certifica.jar en tu Mac. Si sigues teniendo problemas, es posible que necesites contactar con el soporte técnico del proveedor del programa.
-
-<img width="1440" alt="certifica" src="https://github.com/user-attachments/assets/e3e54da8-7a36-463c-9f8c-92840158c300" />
