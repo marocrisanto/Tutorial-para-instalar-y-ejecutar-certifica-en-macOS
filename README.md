@@ -46,6 +46,7 @@ Primero, necesitamos instalar una herramienta que nos ayudará a configurar corr
 3. Cuando se abra la Terminal, copia y pega este comando exactamente como está:
    ```bash
    curl -s "[https://get.sdkman.io](https://get.sdkman.io)" | bash
+   ```
 4. Presiona Enter y espera a que termine la instalación.
 
 Lo que deberías ver:
