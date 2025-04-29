@@ -32,7 +32,7 @@ Java es uno de los lenguajes de programación más utilizados en el mundo, desar
 
 Puedes verificar la legitimidad de Java en el sitio oficial de Oracle: [https://www.java.com](https://www.java.com)
 
-O la versión Zulu que utilizaremos en este tutorial, mantenida por Azul Systems: [https://www.azul.com/downloads/?package=jdk](https://www.azul.com/downloads/?package=jdk)
+O la versión Zulu que utilizaremos en este tutorial, mantenida por Azul Systems: https://www.azul.com/downloads/?package=jdk
 
 ## Instalación de SDKMAN en Mac
 
@@ -45,7 +45,7 @@ Primero, necesitamos instalar una herramienta que nos ayudará a configurar corr
 
 3. Cuando se abra la Terminal, copia y pega este comando exactamente como está:
    ```bash
-   curl -s "[https://get.sdkman.io](https://get.sdkman.io)" | bash
+   curl -s "https://get.sdkman.io" | bash
    ```
 4. Presiona Enter y espera a que termine la instalación.
 
